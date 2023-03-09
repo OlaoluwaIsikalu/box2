@@ -1,0 +1,52 @@
+body{
+    text-align: center; 
+    background-color: rgb(255, 196, 0);
+}
+.heading{
+    text-transform: uppercase;
+    font-family: monospace;
+    font-weight:bold;
+    letter-spacing:0.2rem;
+}
+ ul{
+    padding: 10px;
+   margin-left: 20em;
+   margin-right:  20em;
+    border-top:5px solid black;
+    
+    border-bottom:5px solid black;
+} 
+
+.Froggy{
+color:red
+}
+
+li{
+    display:inline;
+    text-transform:uppercase; 
+    padding: 20px;
+}    
+
+.Volcano img{
+    padding: 0;
+    margin: 0;
+}
+
+.Tree{
+text-align:center;
+margin-left:390px;
+margin-right:390px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
